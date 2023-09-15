@@ -10,6 +10,7 @@ set up a simple site using jekyll
   - look for my jekyll/github pages template?
   - make my own theme
     - examples:
+    - https://github.com/rampatra/photography
     - https://github.com/CloudCannon/aperture-jekyll-template
     - https://github.com/ElasticDesigns/jekyll-lens
   - basic css
