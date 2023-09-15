@@ -13,5 +13,8 @@ set up a simple site using jekyll
   - find some javascript web photo/image viewer thing:
     - https://github.com/fengyuanchen/viewerjs
       - looks good enough!
-     
+  - iCloud photo sharing (TRY THIS FIRST, SIMPLEST SOLUTION)
+    - any limits?
+    - free-hosting?
+    - able to use custom domain?
   
